@@ -1,0 +1,183 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62d8e605dd0bb4e43844c79aeecc9d60, type: 3}
+  m_Name: ItemsData
+  m_EditorClassIdentifier: 
+  weaponListDatas:
+  - itemType: 4
+    id: 0
+    name: 
+    icon: {fileID: 0}
+    object__: {fileID: 5078053910130441778, guid: a3acf0bceb727d547bb5c71353076f80, type: 3}
+    price: 0
+  - itemType: 4
+    id: 1
+    name: 
+    icon: {fileID: 0}
+    object__: {fileID: 1854828769057208773, guid: 646f4df7065ac214c97aaf5693b12411, type: 3}
+    price: 500
+  - itemType: 4
+    id: 2
+    name: 
+    icon: {fileID: 0}
+    object__: {fileID: 268234446199917045, guid: ca593fd57e0a8e643a081368d408d349, type: 3}
+    price: 1000
+  hatListDatas:
+  - itemType: 0
+    id: 0
+    name: 
+    icon: {fileID: 0}
+    object__: {fileID: 6186665494019655100, guid: 0907a713df31e5f478a4d82976fef4b1, type: 3}
+    price: 100
+  - itemType: 0
+    id: 1
+    name: 
+    icon: {fileID: 0}
+    object__: {fileID: 3802885050104294652, guid: 2643dc56317d54044bbad19a4a6d24b9, type: 3}
+    price: 200
+  - itemType: 0
+    id: 2
+    name: 
+    icon: {fileID: 0}
+    object__: {fileID: 4985682203017236054, guid: b4c627087670fce4390d2a22bb9046e3, type: 3}
+    price: 300
+  - itemType: 0
+    id: 3
+    name: 
+    icon: {fileID: 0}
+    object__: {fileID: 3410138458102004740, guid: 02ebaccfce64b5c4f92bf719293363ed, type: 3}
+    price: 400
+  - itemType: 0
+    id: 4
+    name: 
+    icon: {fileID: 0}
+    object__: {fileID: 6185976244741110466, guid: 2e81aa5e17a509142ac98cdd122cdef9, type: 3}
+    price: 500
+  - itemType: 0
+    id: 5
+    name: 
+    icon: {fileID: 0}
+    object__: {fileID: 5545974717563221035, guid: 58998b70d5c06be469f7864ebf7e45bf, type: 3}
+    price: 600
+  - itemType: 0
+    id: 6
+    name: 
+    icon: {fileID: 0}
+    object__: {fileID: 1339721212856720259, guid: f4f29df673a931448b70ef6d3521e922, type: 3}
+    price: 700
+  - itemType: 0
+    id: 7
+    name: 
+    icon: {fileID: 0}
+    object__: {fileID: 8470181403661278285, guid: ca48f88736316ca449b8d3e96bd47544, type: 3}
+    price: 800
+  - itemType: 0
+    id: 8
+    name: 
+    icon: {fileID: 0}
+    object__: {fileID: 2734523212060544658, guid: 31ead331d25264e429ef7c1b13f6f78a, type: 3}
+    price: 900
+  pantListDatas:
+  - itemType: 1
+    id: 0
+    name: 
+    icon: {fileID: 21300000, guid: 1f7e9eb236c8768498ad5d8078d2533d, type: 3}
+    object__: {fileID: 0}
+    price: 200
+    pantMaterial: {fileID: 2100000, guid: 496ed244da28f4c4b981098a31192e02, type: 2}
+  - itemType: 1
+    id: 1
+    name: 
+    icon: {fileID: 21300000, guid: 3ddbc9e0f3f883a46b1ba9635f87c222, type: 3}
+    object__: {fileID: 0}
+    price: 200
+    pantMaterial: {fileID: 2100000, guid: 257d8255b7b4b7747aab256469c88092, type: 2}
+  - itemType: 1
+    id: 2
+    name: 
+    icon: {fileID: 21300000, guid: 2652851e5f7772041add8ebe7d548f2b, type: 3}
+    object__: {fileID: 0}
+    price: 200
+    pantMaterial: {fileID: 2100000, guid: b3c6e435a36ec3942923cb2fff3f40ed, type: 2}
+  - itemType: 1
+    id: 3
+    name: 
+    icon: {fileID: 21300000, guid: ae9d58ecee0e3f848b8fedb3f2c67648, type: 3}
+    object__: {fileID: 0}
+    price: 200
+    pantMaterial: {fileID: 2100000, guid: 448cd5f405c0bea4a9272ec20a659ef2, type: 2}
+  - itemType: 1
+    id: 4
+    name: 
+    icon: {fileID: 21300000, guid: 5433d4b044040c44487399b59f52e2b4, type: 3}
+    object__: {fileID: 0}
+    price: 200
+    pantMaterial: {fileID: 2100000, guid: 8845b63307e2912458adbaf8bd8d7f5d, type: 2}
+  - itemType: 1
+    id: 5
+    name: 
+    icon: {fileID: 21300000, guid: ea8161e4ed231be438fe9e968bc8752c, type: 3}
+    object__: {fileID: 0}
+    price: 200
+    pantMaterial: {fileID: 2100000, guid: 4a9c0e923386ea34691ee698d95bd2bb, type: 2}
+  - itemType: 1
+    id: 6
+    name: 
+    icon: {fileID: 21300000, guid: 4d6b3cb74098a8640b03cd004d1dcdbb, type: 3}
+    object__: {fileID: 0}
+    price: 200
+    pantMaterial: {fileID: 2100000, guid: 1a0ac4953be7b0a4783bea8365037643, type: 2}
+  - itemType: 1
+    id: 7
+    name: 
+    icon: {fileID: 21300000, guid: a39a74b87842b704ab4bc6eec7e6c287, type: 3}
+    object__: {fileID: 0}
+    price: 200
+    pantMaterial: {fileID: 2100000, guid: 1b37c58318c083a49962cc6b1a0cb538, type: 2}
+  - itemType: 1
+    id: 8
+    name: 
+    icon: {fileID: 21300000, guid: 343f00cc518f2c34090d54d64a12c62e, type: 3}
+    object__: {fileID: 0}
+    price: 200
+    pantMaterial: {fileID: 2100000, guid: 64d9053764b9a4e45a0ca540fbbef58c, type: 2}
+  shieldListDatas:
+  - itemType: 2
+    id: 0
+    name: 
+    icon: {fileID: 0}
+    object__: {fileID: 6675159526512174540, guid: db93c50421e100842ad9fa811ef9a489, type: 3}
+    price: 700
+  - itemType: 2
+    id: 1
+    name: 
+    icon: {fileID: 0}
+    object__: {fileID: 139557314428871599, guid: fdbfe0fe359a59440a9e3602cdf8f35c, type: 3}
+    price: 700
+  skinListDatas:
+  - itemType: 3
+    id: 0
+    name: 
+    icon: {fileID: 21300000, guid: 47489d63e5926ef478fda009b5f7b683, type: 3}
+    object__: {fileID: 0}
+    price: 2000
+  - itemType: 3
+    id: 0
+    name: 
+    icon: {fileID: 21300000, guid: 8f00f4e5c6662634d9d6fb1e2e2b01ce, type: 3}
+    object__: {fileID: 0}
+    price: 2000
+  materials:
+  - {fileID: 2100000, guid: d3666d9490656b746a3c952c5dae0df2, type: 2}
+  - {fileID: 2100000, guid: 4cf36584ef3434849b7a2040b4ca5d80, type: 2}
+  - {fileID: 2100000, guid: 694186f639aaa894f8a227ae5e2d14aa, type: 2}
+  - {fileID: 2100000, guid: 2e963e0dacb3e6e43ac7bd82ec4678f5, type: 2}
